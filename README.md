@@ -44,7 +44,7 @@ conda activate GazeTracking
 Run the demo:
 
 ```shell
-python example.py
+python main.py
 ```
 
 ## Simple Demo
